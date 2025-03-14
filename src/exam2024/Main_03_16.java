@@ -1,7 +1,6 @@
 package exam2024;
 
 // 2024년 3회 16번
-// 예외 처리
 // 실행 결과
 
 public class Main_03_16 {
@@ -21,7 +20,7 @@ public class Main_03_16 {
         System.out.print(sum);
     }
 
-    // 사용자 정의 예외(자바 기본 예외 아님)
+    // 사용자 정의 예외(자바 기본 예외 X)
     static void func() throws Exception {
         throw new NullPointerException();
     }

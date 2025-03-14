@@ -5,8 +5,6 @@ package exam2020;
 
 public class Good_04_06 {
     public static void main(String[] args) {
-        
-        // 문제
 //      int[][] a = new int[(A)][(B)];
         int[][] a = new int[3][5];
 

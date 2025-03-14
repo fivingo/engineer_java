@@ -1,7 +1,6 @@
 package exam2023;
 
 // 2023년 2회 14번
-// 문자열 비교
 // 실행 결과
 
 public class Main_02_14 {

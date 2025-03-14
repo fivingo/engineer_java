@@ -1,7 +1,6 @@
 package exam2022;
 
 // 2022년 3회 19번
-// 배열 생성과 반환
 // 실행 결과
 
 public class Main_03_19 {

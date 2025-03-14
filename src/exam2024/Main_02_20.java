@@ -1,7 +1,6 @@
 package exam2024;
 
 // 2024년 2회 20번
-// split() 메서드
 // 실행 결과
 
 public class Main_02_20 {

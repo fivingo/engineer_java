@@ -1,7 +1,6 @@
 package exam2024;
 
 // 2024년 2회 1번
-// 배열의 주소 값 비교
 // 실행 결과
 
 public class Main_02_01 {

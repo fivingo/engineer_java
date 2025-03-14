@@ -1,7 +1,6 @@
 package exam2020;
 
 // 2020년 2회 5번
-// 다른 타입의 객체 생성(다형성)
 // 괄호 채우기
 
 class Parent {
@@ -18,9 +17,7 @@ class Child extends Parent {
 
 public class Exam_02_05 {
     public static void main(String[] args) {
-        
-        // 문제
-//      Parent pa = ( ) Child();    // 객체 Child로 생성(메서드), 참조 타입은 Parent(변수)
+//      Parent pa = ( ) Child();
         Parent pa = new Child();
 
         pa.show();
