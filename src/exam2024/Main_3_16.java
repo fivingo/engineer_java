@@ -22,6 +22,6 @@ public class Main_3_16 {
 
     // 사용자 정의 예외(자바 기본 예외 X)
     static void func() throws Exception {
-        throw new NullPointerException();sss
+        throw new NullPointerException();
     }
 }
