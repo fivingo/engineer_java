@@ -1,7 +1,6 @@
 package exam2022;
 
 // 2022년 2회 7번
-// switch-case 문
 // 실행 결과
 
 public class Main_02_07 {

@@ -1,7 +1,6 @@
 package exam2022;
 
-// 2022년 3회 20번
-// for문, 논리 연산자
+// 2022년 3회 19번
 // 실행 결과
 
 public class Exam_03_20 {

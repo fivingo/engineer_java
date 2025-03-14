@@ -1,7 +1,6 @@
 package exam2024;
 
 // 2024년 1회 1번
-// 제네릭의 타입소거
 // 실행 결과
 
 class Printer {
@@ -30,6 +29,7 @@ public class Generic_03_18 {
             value = t;
         }
 
+        // [제네릭의 타입소거]
         // T가 컴파일 후 Object로 변환 됨
         // (제네릭을 사용하면 컴파일 후 타입 정보가 사라짐)
         public void print() {

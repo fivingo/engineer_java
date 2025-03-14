@@ -1,20 +1,15 @@
 package exam2023;
 
 // 2023년 2회 2번
-// 동전 교환 알고리즘 / 탐욕 알고리즘
 // 괄호 채우기
 
 public class Problem_02_02 {
     public static void main(String[] args) {
         int m = 4620;
-        
-        // 문제
 //      int a = (              );
 //      int b = (              );
 //      int c = (              );
 //      int d = (              );
-
-        // [답]
         int a = m / 1000;
         int b = (m % 1000) / 500;
         int c = (m % 500) / 100;
