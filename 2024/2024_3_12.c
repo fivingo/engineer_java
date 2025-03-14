@@ -37,5 +37,5 @@ int main()
     {
         printf("%d", current->value);
         current = current->next;
-    }dd
+    }
 }
