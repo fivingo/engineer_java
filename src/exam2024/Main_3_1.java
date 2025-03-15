@@ -1,6 +1,7 @@
 package exam2024;
 
 // 2024년 3회 1번
+// 문자열 비교
 // 실행 결과
 
 public class Main_3_1 {
