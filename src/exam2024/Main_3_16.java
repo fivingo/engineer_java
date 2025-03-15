@@ -20,7 +20,7 @@ public class Main_3_16 {
         System.out.print(sum);
     }
 
-    // 사용자 정의 예외(자바 기본 예외 X)
+    // 사용자 정의 예외(자바 기본 예외 아님)
     static void func() throws Exception {
         throw new NullPointerException();
     }
