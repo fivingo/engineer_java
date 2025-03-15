@@ -1,6 +1,7 @@
 package exam2024;
 
 // 2024년 3회 16번
+// 예외 처리
 // 실행 결과
 
 public class Main_3_16 {

@@ -1,6 +1,7 @@
 package exam2024;
 
 // 2024년 1회 12번
+// 홀짝 알고리즘?
 // 실행 결과
 
 interface Number {
