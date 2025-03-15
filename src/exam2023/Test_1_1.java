@@ -1,6 +1,7 @@
 package exam2023;
 
 // 2023년 1회 1번
+// 정적(static) 멤버, 후치 연산자
 // 실행 결과
 
 class Static {
