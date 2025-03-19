@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 // 2022년 1회 20번
+// 함수 정의, 소인수 분해 알고리즘
 // 실행 결과
 
-int isPrime(int number)
-{
+// 함수 정의
+int isPrime(int number) {
     int i;
 
     for (i = 2; i < number; i++)
@@ -14,8 +15,7 @@ int isPrime(int number)
     return 1;
 }
 
-int main(void)
-{
+int main(void) {
     int number = 13195, max_div = 0, i;
 
     for (i = 2; i < number; i++)
