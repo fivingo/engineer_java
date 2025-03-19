@@ -1,6 +1,7 @@
 package exam2020;
 
 // 2020년 1회 19번
+// 정적(static) 메서드, 배열 처리
 // 실행 결과
 
 public class Test_1_19 {
