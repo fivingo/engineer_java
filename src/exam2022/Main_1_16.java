@@ -15,6 +15,8 @@ class Car implements Runnable {
 
 public class Main_1_16 {
     public static void main(String[] args) {
+        
+        // 문제
 //      Thread t1 = new Thread(new (   ));
         Thread t1 = new Thread(new Car());
 

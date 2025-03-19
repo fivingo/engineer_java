@@ -7,6 +7,8 @@ package exam2023;
 public class Problem_2_2 {
     public static void main(String[] args) {
         int m = 4620;
+        
+        // 문제
 //      int a = (              );
 //      int b = (              );
 //      int c = (              );

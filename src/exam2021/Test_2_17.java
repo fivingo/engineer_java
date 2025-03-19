@@ -9,6 +9,7 @@ public class Test_2_17 {
         System.out.print(Test_2_17.check(1));   // 객체 생성 없이 클래스 이름으로 직접 호출
     }
 
+    // 문제
 //  (    ) String check(int num) {
     static String check(int num) {
         return (num >= 0) ? "positive" : "negative";
