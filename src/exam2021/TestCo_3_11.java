@@ -1,6 +1,7 @@
 package exam2021;
 
 // 2021년 3회 11번
+// 비트 연산자, 배타적 논리합
 // 실행 결과
 
 public class TestCo_3_11 {
