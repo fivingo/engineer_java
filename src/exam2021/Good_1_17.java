@@ -1,6 +1,7 @@
 package exam2021;
 
 // 2021년 1회 17번
+// for문
 // 실행 결과
 
 public class Good_1_17 {

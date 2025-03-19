@@ -1,6 +1,7 @@
 package exam2021;
 
 // 2021년 3회 1번
+// 싱글톤 패턴
 // 실행 결과
 
 class Connection {
