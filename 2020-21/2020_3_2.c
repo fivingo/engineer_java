@@ -1,15 +1,14 @@
 #include <stdio.h>
 
 // 2020년 3회 2번
+// for문
 // 실행 결과
 
-void main()
-{
+void main() {
     int c = 0;
     int i = 0;
 
-    while (i < 10)
-    {
+    while (i < 10) {
         i++;
         c *= i;
     }
