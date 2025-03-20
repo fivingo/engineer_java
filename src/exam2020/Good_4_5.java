@@ -2,7 +2,7 @@ package exam2020;
 
 // 2020년 4회 5번
 // while문
-// 2진수 변환 | 괄호 채우기(답이 여러개)
+// 2진수 변환 | 괄호 채우기(답이 여러개)dd
 
 public class Good_4_5 {
     public static void main(String[] args) {
