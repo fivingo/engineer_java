@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 // 2023년 3회 4번
+// for문, 함수 정의
 // 실행 결과
 
-int test(int n)
-{
+// 함수 정의
+int test(int n) {
     int i, sum = 0;
 
     for (i = 1; i <= n / 2; i++)
@@ -17,12 +18,10 @@ int test(int n)
     return 0;
 }
 
-int main()
-{
+int main() {
     int i, sum = 0;
 
-    for (i = 2; i <= 100; i++)
-    {
+    for (i = 2; i <= 100; i++) {
         if (test(i))
             sum += i;
     }
