@@ -1,15 +1,14 @@
 #include <stdio.h>
 
 // 2023년 2회 1번
+// 배열, for문
 // 괄호 채우기
 
-int main()
-{
+int main() {
     int n[5];
     int i;
 
-    for (i = 0; i < 5; i++)
-    {
+    for (i = 0; i < 5; i++) {
         printf("숫자를 입력해주세요:");
         scanf("%d", &n[i]);
     }
