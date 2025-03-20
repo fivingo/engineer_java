@@ -4,7 +4,7 @@ package exam2020;
 // while문
 // 괄호 채우기
 
-public class Good_04_05 {dd
+public class Good_04_05 {
     public static void main(String[] args) {
         int[] a = new int[8];
         int i = 0;
