@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 // 2023년 1회 3번
+// 포인터, 이중 for문
 // 실행 결과
 
-int main()
-{
+int main() {
     char *a = "qwer";
     char *b = "qwety";
 

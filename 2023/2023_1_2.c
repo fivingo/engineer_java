@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 // 2023년 1회 2번
+// 문자열 배열, 배열
 // 실행 결과
 
-int main()
-{
+int main() {
     char a[] = "Art";
     char *p = NULL;
     p = a;
