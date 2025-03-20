@@ -1,20 +1,18 @@
 #include <stdio.h>
 
 // 2023년 2회 5번
+// for문, swtich-case문
 // 실행 결과
 
-void main()
-{
+void main() {
     int n[3] = {73, 95, 82};
     int sum = 0;
 
-    for (int i = 0; i < 3; i++)
-    {
+    for (int i = 0; i < 3; i++) {
         sum += n[i];
     }
 
-    switch (sum / 30)
-    {
+    switch (sum / 30) {
         case 10:
         case 9:
             printf("A");
