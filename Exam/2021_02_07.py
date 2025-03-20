@@ -8,4 +8,4 @@ for i in range(1, 3):	# 반복문 | 범위 1부터 2까지
 	result = a >> i		# 시프트 연산 | 오른쪽시프트 /2 왼쪽시프트 *2 i회, 소수는 버림
 	result = result + 1
 
-print(result)dd
+print(result)
