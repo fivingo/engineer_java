@@ -31,3 +31,4 @@ bin/
 /.idea/
 /out/
 /Exam.iml
+/.gitignore
