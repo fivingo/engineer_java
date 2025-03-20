@@ -1,19 +1,19 @@
 #include <stdio.h>
 
 // 2023년 2회 3번
-// 괄호 채우기
+// 전역 변수
+// 실행 결과
 
 char n[30];
-char *test()
-{
+
+char *test() {
     printf("입력하세요:");
-    gets(n);
+    gets(n);    // 한 줄 입력 받는 함수
 
     return n;
 }
 
-int main()
-{
+int main() {
     char *test1;
     char *test2;
     char *test3;
