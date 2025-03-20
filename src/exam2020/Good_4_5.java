@@ -2,6 +2,7 @@ package exam2020;
 
 // 2020년 4회 5번
 // while문
+// 괄호 채우기
 
 public class Good_4_5 {
     public static void main(String[] args) {
