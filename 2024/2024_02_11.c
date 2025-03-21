@@ -1,14 +1,13 @@
 #include <stdio.h>
 
 // 2024년 2회 11번
+// 포인터, 문자열 처리
 // 실행 결과
 
-void func(char *d, char *s)
-{
+void func(char *d, char *s) {
     int sum = 0;
 
-    while (*s)
-    {
+    while (*s) {
         *d = *s;
         d++;
         s++;
@@ -17,8 +16,7 @@ void func(char *d, char *s)
     *d = '\0';
 }
 
-int main()
-{
+int main() {
     char *str1 = "first";
     char str2[50] = "teststring";
     int result = 0;
