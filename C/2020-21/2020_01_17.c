@@ -1,4 +1,4 @@
-d#include <stdio.h>
+#include <stdio.h>
 
 // 2020년 1회 17번
 // 이중 for문, 버블 정렬
